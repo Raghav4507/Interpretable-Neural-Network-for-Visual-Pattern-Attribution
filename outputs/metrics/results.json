@@ -1,0 +1,8 @@
+{
+    "baseline": {
+        "test_accuracy": 0.9028
+    },
+    "hybrid": {
+        "test_accuracy": null
+    }
+}
