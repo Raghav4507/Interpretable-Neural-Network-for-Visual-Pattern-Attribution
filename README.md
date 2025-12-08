@@ -24,38 +24,6 @@ This project addresses this by:
    - Integrated Gradients
 
 ---
-## 🗂️ Repository Structure
-
-Interpretable Neural Network for Visual Pattern Attribution/
-│
-├── data/
-│ └── FashionMNIST/
-│
-├── src/
-│ ├── baseline_cnn.py
-│ ├── handcrafted_features.py
-│ ├── save_fashionmnist_tensor.py
-│ ├── hybrid_model.py
-│ ├── gradcam.py
-│ ├── explain_gradients.py
-│ ├── evaluate_metrics.py
-│ └── train_utils.py
-│
-├── outputs/
-│ ├── models/
-│ │ ├── baseline_cnn.pth
-│ │ └── hybrid_model.pkl
-│ ├── visualizations/
-│ │ ├── gradcam/
-│ │ └── shap/
-│ └── metrics/
-│ └── results.json
-│
-├── run_all.ipynb
-├── requirements.txt
-└── README.md
-----
-
 ## 🚀 How to Run
 
 ### 1️⃣ Create a virtual environment (recommended)
