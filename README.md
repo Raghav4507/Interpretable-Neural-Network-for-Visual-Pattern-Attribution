@@ -80,11 +80,11 @@ Grad-CAM	Highlights spatial regions influencing CNN predictions <br />
 Saliency Maps	Shows pixel-level sensitivity <br />
 Integrated Gradients	Measures feature importance along prediction paths <br />
 
-All visual outputs are saved in outputs/visualizations/.
+All visual outputs are saved in ```outputs/visualizations/```.
 
 ## ⚠️ Notes
 
-Due to platform-specific dependency constraints on Windows, hybrid test accuracy may not be reproducible in all environments.
+Due to platform-specific dependency constraints on Windows, hybrid test accuracy may not be reproducible in all environments. <br />
 However, hybrid training and qualitative interpretability analyses are fully reproducible and documented.
 
 ## 📚 Dataset
