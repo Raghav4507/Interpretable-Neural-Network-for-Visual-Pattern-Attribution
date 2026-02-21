@@ -72,6 +72,7 @@ Baseline CNN Test Accuracy: ~90% <br />
 CNN Embedding: 512 <br />
 Handcrafted Features: 147 <br />
 Total Hybrid Vector: 659 <br />
+
 Visual explanations show that the hybrid approach focuses more consistently on semantic garment regions rather than background noise.
 
 ## 🔍 Interpretability Methods
