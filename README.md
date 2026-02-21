@@ -89,7 +89,7 @@ However, hybrid training and qualitative interpretability analyses are fully rep
 
 ## 📚 Dataset
 
-Fashion-MNIST
-Zalando Research
+Fashion-MNIST <br />
+Zalando Research <br />
 https://github.com/zalandoresearch/fashion-mnist
 
