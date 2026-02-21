@@ -75,10 +75,10 @@ Total Hybrid Vector: 659 <br />
 Visual explanations show that the hybrid approach focuses more consistently on semantic garment regions rather than background noise.
 
 ## 🔍 Interpretability Methods
-Method	Purpose
-Grad-CAM	Highlights spatial regions influencing CNN predictions
-Saliency Maps	Shows pixel-level sensitivity
-Integrated Gradients	Measures feature importance along prediction paths
+Method	Purpose <br />
+Grad-CAM	Highlights spatial regions influencing CNN predictions <br />
+Saliency Maps	Shows pixel-level sensitivity <br />
+Integrated Gradients	Measures feature importance along prediction paths <br />
 
 All visual outputs are saved in outputs/visualizations/.
 
