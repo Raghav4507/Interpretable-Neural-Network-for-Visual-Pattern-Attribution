@@ -78,7 +78,7 @@ Visual explanations show that the hybrid approach focuses more consistently on s
 ## 🔍 Interpretability Methods
 Method	Purpose <br />
 Grad-CAM	Highlights spatial regions influencing CNN predictions <br />
-Saliency Maps	Shows pixel-level sensitivity <br />
+Saliency Maps	show pixel-level sensitivity <br />
 Integrated Gradients	Measures feature importance along prediction paths <br />
 
 All visual outputs are saved in ```outputs/visualizations/```.
